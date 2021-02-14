@@ -6,7 +6,7 @@ width:100%;
 }*/
 html {
 scroll-behavior: smooth;
-width: 100%;
+width: 100vw;
 height: 100%;
 margin: 0px;
 padding: 0px;
@@ -17,7 +17,7 @@ header{
 font-family:sans-serif;
 background-color:rgba(0,0,0,0.5);
 height:70px;
-width:100%;
+width:100vw;
 }
 header .row #logo{
 padding-top:7px;
@@ -53,7 +53,7 @@ display:flex;
 background-image: url("a4.png");
 background-repeat: no-repeat;
 background-size: cover;
-width:100%;
+width:100vw;
 height:100vh;
 align-items:center;
 justify-content:center;
@@ -77,7 +77,7 @@ color:crimson;
 .about{
 padding-top:125px;
 padding-bottom:77px;
-width:100%;
+width:100vw;
 }
 .about h3{
 font-family:sans-serif;
@@ -123,7 +123,7 @@ color:crimson;
 .services{
 padding-top:80px;
 padding-bottom:80px;
-width:100%;
+width:100vw;
 background-color:rgba(0,0,0,0.8);
 }
 .services h3{
@@ -163,7 +163,7 @@ padding-top:20px;
 .contact{
 padding-top:90px;
 padding-bottom:100px;
-width:100%;
+width:100vw;
 }
 .contact h3{
 font-family:sans-serif;
@@ -287,7 +287,7 @@ margin-top:-35px;
 background-repeat: no-repeat;
 background-size: cover;*/
 background-color:rgba(0,0,0,0.9);
-width:100%;
+width:100vw;
 font-family:sans-serif;
 color:white;
 }
